@@ -1,0 +1,36 @@
+html{
+  background-color: black;
+  font-family: Verdana;
+}
+head,
+header,
+.main{
+  text-align: center;
+  position: relative;
+}
+header{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.link{
+  font-size: 16px;
+}
+a, a:link, a:visited, a:hover, a:focus, a:active{
+  color: Aquamarine;
+}
+.lower-title{
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+.description{
+  font-size: 21px;
+  color: gray;
+}
+img{
+  border: 10px solid black;
+}
+.footer{
+  text-align: right;
+}
